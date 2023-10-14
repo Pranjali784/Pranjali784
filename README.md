@@ -7,6 +7,22 @@
 
 <p align="left"> <a href="https://twitter.com/pranjali784" target="blank"><img src="https://img.shields.io/twitter/follow/pranjali784?logo=twitter&style=for-the-badge" alt="pranjali784" /></a> </p>
 
+- 🔭 I’m currently working on [STARTUP-Method2Madness](https://github.com/Pranjali784/STARTUP-Method2Madness)
+
+- 🌱 I’m currently learning **Data Structure and Algorithm**
+
+- 👯 I’m looking to collaborate on [https://gPranjali-s-ChatApp-Using-Websockets-Node.js-](https://github.com/Pranjali784/Pranjali-s-ChatApp-Using-Websockets-Node.js-)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Pranjali784?tab=repositories](https://github.com/Pranjali784?tab=repositories)
+
+- 💬 Ask me about **Web development , Java development**
+
+- 📫 How to reach me **pranjali48.j@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ajc1pwXrre1KQd6-XWvTVKDZVZllN9rs/view?usp=sharing](https://drive.google.com/file/d/1ajc1pwXrre1KQd6-XWvTVKDZVZllN9rs/view?usp=sharing)
+
+- ⚡ Fun fact **Fun fact about me? I consider myself the ultimate blend of wit and wisdom. My humor is like a finely optimized algorithm - it might take a moment to compile, but when it runs, it's pure intellectual hilarity!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pranjali784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranjali784" height="30" width="40" /></a>
