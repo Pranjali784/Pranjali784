@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/pranjali784" target="blank"><img src="https://img.shields.io/twitter/follow/pranjali784?logo=twitter&style=for-the-badge" alt="pranjali784" /></a> </p>
 
+<p align="center"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Pranjali784" /> </p>
+
 - 🔭 I’m currently working on [STARTUP-Method2Madness](https://github.com/Pranjali784/STARTUP-Method2Madness)
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
