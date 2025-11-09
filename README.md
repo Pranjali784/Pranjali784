@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 👯 I’m looking to collaborate on [https://gPranjali-s-ChatApp-Using-Websockets-Node.js-](https://github.com/Pranjali784/Pranjali-s-ChatApp-Using-Websockets-Node.js-)
+- 👯 I’m looking to collaborate on [Omni-Engage](https://github.com/Pranjali784/omni-engage.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pranjali784?tab=repositories](https://github.com/Pranjali784?tab=repositories)
 
-- 💬 Ask me about **Web development , Java development**
+- 💬 Ask me about **Java development, SpringBoot, Data Structure & Algorithm, SQL**
 
 - 📫 How to reach me **pranjali48.j@gmail.com**
 
