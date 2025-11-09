@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Pranjali Srivastava</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Java Developer from India</h3>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4970&pause=960&color=1BF745&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+Pranjali's+Profile" alt="Typing SVG" /></a>
 
