@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Pranjali784" /> </p>
 </p>
 
-- 🔭 I’m currently working on [ParkEase - Find. Book. Park.](https://github.com/Pranjali784/STARTUP-Method2Madness)
+- 🔭 I’m currently working on [ParkEase - Find. Book. Park.](https://github.com/Pranjali784/ParkEase_Pro.git)
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
